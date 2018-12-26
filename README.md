@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-# hellocatcamp
-=======
-ToastAPP Privacy Policy
+Catx4 Privacy Policy
 Updated on September 1, 2016
  
-We, ToastAPP, regards your information significant and release this Privacy Policy to inform you what information we collect and how we use it to personalize and continually improve you experience. Our Privacy Policy sets out how we collect, use and disclose "personal information" and other "non-personal information" we have gathered about you.
+We, Catx4, regards your information significant and release this Privacy Policy to inform you what information we collect and how we use it to personalize and continually improve you experience. Our Privacy Policy sets out how we collect, use and disclose "personal information" and other "non-personal information" we have gathered about you.
 This policy will let you know:
 * What information is collected from you;
 * How your information is used;
@@ -17,7 +14,7 @@ Children's Privacy
 We strictly adhere to PIPA. Our games and our website are not aimed at children under 13 years of age. If you believe that We have inadvertently collected information from a person under the age of 13, please contact us at the email address below and the information will be permanently deleted.
  
 What is Personal Information and why do we collect it from you?
-‘Personal Information’ is information or an opinion that identifies you as an individual. We collect and store your email, where you nominate to specifically allow our games to collect your email. If you contact us directly for any reason, we may also keep a copy of that correspondence. Your email is collected only to keep you informed of new ToastAPP products and changes to our existing products.
+‘Personal Information’ is information or an opinion that identifies you as an individual. We collect and store your email, where you nominate to specifically allow our games to collect your email. If you contact us directly for any reason, we may also keep a copy of that correspondence. Your email is collected only to keep you informed of new Catx4 products and changes to our existing products.
  
 Sensitive Information
 Sensitive information is defined in the US Act to include information or opinion about such things as an individual's racial or ethnic origin, political opinions, membership of a political association, religious or philosophical beliefs, membership of a professional body, criminal records or health information.
@@ -31,7 +28,7 @@ Your Personal Information is stored offsite in a manner that reasonably protects
 We don't guarantee website links or policy of authorized third parties and you access those sites at your own risk.
  
 Access to your Personal Information
-Under the PIPA, and under the US Act you have the right to access the Personal Information. We hold about you and to update and/or correct it, subject to certain exceptions. If you wish to access your Personal Information, please make out your request to us in writing at the address listed below. ToastAPP will not charge any fee for your access request, but may charge an administrative fee. Please be aware that in order to protect the Personal Information in our database, we will require identification from you before releasing any information.
+Under the PIPA, and under the US Act you have the right to access the Personal Information. We hold about you and to update and/or correct it, subject to certain exceptions. If you wish to access your Personal Information, please make out your request to us in writing at the address listed below. Catx4 will not charge any fee for your access request, but may charge an administrative fee. Please be aware that in order to protect the Personal Information in our database, we will require identification from you before releasing any information.
  
 Third Party Advertising
 Advertisements from third party ad networks may be displayed in our Games from time to time. All reasonable endeavors are used to ensure that these ad networks comply with the PIPA, the US Act, and COPPA in the provision of their services towards us.
@@ -53,4 +50,3 @@ Privacy Policy Contact Information
 If you have any questions about our Privacy Policy, please contact us at:
 sedurn@gmail.com
 
->>>>>>> fist
